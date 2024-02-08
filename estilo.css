@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    padding: 0;
+}
+.header__section {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.main__section, .footer {
+    margin: 10px;
+}
+.inline {
+    display: inline;
+}
